@@ -1,2 +1,2 @@
-var aloha ="Aloha Variables";
+var aloha = 'Aloha Variables';
 console.log(aloha);
